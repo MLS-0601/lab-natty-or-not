@@ -15,10 +15,7 @@ and finally, I used photoshop to try to make the image a little more realistic a
 was not perfect, but it satisfied me and I hope it satisfied you too.
 
 ## 🚀 Results
-[Realistic image of 2 cats](https://github.com/user-attachments/assets/2840e1e0-780b-4499-bf6b-abdc315851d7)
-s/d8fa9134-a5df-4b5c-bf23-aab893062a31)
-
-
+Results are in the file "Realistic image of two cats.jpg" 
 
 ## 💭 Reflection
 The challenge was really very creative and intuitive, I had fun using AI's and seeing some strange results that were
