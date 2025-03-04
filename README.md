@@ -9,12 +9,15 @@ This is a challenge proposed by my course, which consists of creating a realisti
 Chat-GPT, Leonardo AI, MidJourney and a little photoshop
 
 ## 🧐 Creation process
-I started with MidJourney, generating the most realistic image I could create, so i passed it on to Leonardo Ai so I could refine some mistakes and make the image look even more realistic,passed for ChatGPT to refine more mistakes 
-and finally, I used photoshop to try to make the image a little more realistic and remove some last errors, the image was not perfect, but it satisfied me and I hope it satisfied you too.
+I started with MidJourney, generating the most realistic image I could create, so i passed it on to Leonardo Ai so I could
+refine some mistakes and make the image look even more realistic,passed for ChatGPT to refine more mistakes 
+and finally, I used photoshop to try to make the image a little more realistic and remove some last errors, the image
+was not perfect, but it satisfied me and I hope it satisfied you too.
 
 ## 🚀 Results
 ![image](https://github.com/user-attachments/assets/e7c37bab-db37-4117-90a6-1176d9b1da80)
 
 
 ## 💭 Reflection
-The challenge was really very creative and intuitive, I had fun using AI's and seeing some strange results that were generated, it also helped me put into practice the studies I did on AI prompts, great challenge 10/1
+The challenge was really very creative and intuitive, I had fun using AI's and seeing some strange results that were
+generated, it also helped me put into practice the studies I did on AI prompts, great challenge 10/10
